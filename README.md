@@ -1,9 +1,9 @@
 This is a placeholder data catalog record for project:
 
-Kobayashi L, Oyalowo A, Agrawal U, Hu X, Loparo KA, Leary OP, Jay GD, Merck DL. 
+Kobayashi L, Oyalowo A, Agrawal U, Hu X, Loparo KA, Leary OP, Jay GD, Merck DL
 
-"Push Electronic Relay for Smart Alarms for End User Situational Awareness (PERSEUS) Research Program Full Original .json Files Dataset."   
+"Adjudicated/Annotated Telemetry Signals for Medically Important and Clinically Significant Events-0 (ATOMICS-0) Dataset."  
 
-5,459 files in 365 folders ~1.69 Tb of data  
+256 .csv files in 71 folders > 4.65 Gb of data
 
 For more information contact: LKobayashi@lifespan.org
